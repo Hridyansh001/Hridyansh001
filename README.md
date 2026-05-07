@@ -139,7 +139,7 @@ class SoulReaper {
 
 <div align="center">
 
-<a href="https://github.com/Hridyansh001">
+<a href="https://github.com/hridyansh-t-279350398">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
