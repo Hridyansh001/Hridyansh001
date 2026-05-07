@@ -10,46 +10,45 @@
 
 ---
 
-# 🧠 About Me
+#  About Me
 
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Hey there 👋  
-I’m **Soul Reaper**, a B.Tech CSE student passionate about building impactful tech and exploring the world of cybersecurity.
+I’m **Hridyansh Thakran**, a B.Tech CSE student passionate about building impactful tech and exploring the world of cybersecurity.
 
 I enjoy creating projects that combine:
-- 🛡️ Security
-- ⚙️ Backend Development
-- 🤖 AI-based Solutions
-- 🌐 Real-world Problem Solving
+-  Security
+-  Backend Development
+-  AI-based Solutions
+-  Real-world Problem Solving
 
 Currently, I’m focused on:
-- 🚀 Building **ShadowGuard** — an AI-powered insider threat & data leak prevention system
-- 🎣 Developing **PhishRadar** — a phishing detection and analysis platform
-- 📚 Preparing for **GATE CSE 2027**
-- 💻 Strengthening DSA, System Design, and Backend skills
+-  Building **ShadowGuard** — an AI-powered insider threat & data leak prevention system
+-  Developing **PhishRadar** — a phishing detection and analysis platform
+-  Preparing for **GATE CSE 2027**
+-  Strengthening DSA, System Design, and Backend skills
 
 I love learning by building and experimenting with new technologies.  
 My goal is to create tools that are not just projects — but actually useful in the real world.
 
 ---
 
-## ⚡ Quick Facts
+##  Quick Facts
 
-- 🔭 Currently working on: **Cybersecurity Projects**
-- 🌱 Learning: **Spring Boot, PostgreSQL, Docker**
-- 💡 Interested in: **AI Security & Threat Detection**
-- 🎯 Goal: **Become a top-tier Software Engineer**
-- ☕ Fuel: **Music + Late Night Coding**
-
----
+-  Currently working on: **Cybersecurity Projects**
+-  Learning: **Spring Boot, PostgreSQL, Docker**
+-  Interested in: **AI Security & Threat Detection**
+-  Goal: **Become a top-tier Software Engineer**
+-  Fuel: **Music + Late Night Coding**
 
 ---
 
-# 🚀 Current Projects
+---
 
-## 🛡️ ShadowGuard
+#  Current Projects
+
+##  ShadowGuard
 > AI-powered insider threat & sensitive data leak prevention system.
 
 ### Features
@@ -61,7 +60,7 @@ My goal is to create tools that are not just projects — but actually useful in
 
 ---
 
-## 🎣 PhishRadar
+##  PhishRadar
 > Smart phishing URL detection and analysis platform.
 
 ### Features
@@ -73,7 +72,7 @@ My goal is to create tools that are not just projects — but actually useful in
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -93,7 +92,7 @@ My goal is to create tools that are not just projects — but actually useful in
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
@@ -107,7 +106,7 @@ My goal is to create tools that are not just projects — but actually useful in
 
 ---
 
-# 🧩 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
@@ -117,7 +116,7 @@ My goal is to create tools that are not just projects — but actually useful in
 
 ---
 
-# 🐍 Snake Eating Contributions
+#  Snake Eating Contributions
 
 <div align="center">
 
@@ -127,13 +126,13 @@ My goal is to create tools that are not just projects — but actually useful in
 
 ---
 
-# 🌌 Quote I Live By
+#  Quote I Live By
 
 > “Those who cling to life die. Those who cling to death live.”
 
 ---
 
-# 🎯 2026 Goals
+#  2026 Goals
 
 - Master Spring Boot
 - Learn Docker & Deployment
@@ -143,7 +142,7 @@ My goal is to create tools that are not just projects — but actually useful in
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
