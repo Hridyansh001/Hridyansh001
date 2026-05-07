@@ -121,7 +121,7 @@ class SoulReaper {
 
 # 🌌 Quote I Live By
 
-> “Discipline beats motivation.”
+> “Those who cling to life die. Those who cling to death live.”
 
 ---
 
@@ -143,9 +143,9 @@ class SoulReaper {
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/Hridyansh Thakran">
+<!-- <a href="https://linkedin.com/in/Hridyansh Thakran">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+</a> -->
 
 </div>
 
