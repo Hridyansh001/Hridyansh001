@@ -12,30 +12,38 @@
 
 # 🧠 About Me
 
-```java
-class SoulReaper {
 
-    String role = "B.Tech CSE Student";
-    
-    String[] interests = {
-        "Cybersecurity",
-        "Backend Development",
-        "AI Security",
-        "System Design",
-        "Problem Solving"
-    };
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-    String[] techStack = {
-        "Java",
-        "Spring Boot",
-        "PostgreSQL",
-        "Git",
-        "C++"
-    };
+Hey there 👋  
+I’m **Soul Reaper**, a B.Tech CSE student passionate about building impactful tech and exploring the world of cybersecurity.
 
-    String currentFocus = "Building impactful security tools";
-}
-```
+I enjoy creating projects that combine:
+- 🛡️ Security
+- ⚙️ Backend Development
+- 🤖 AI-based Solutions
+- 🌐 Real-world Problem Solving
+
+Currently, I’m focused on:
+- 🚀 Building **ShadowGuard** — an AI-powered insider threat & data leak prevention system
+- 🎣 Developing **PhishRadar** — a phishing detection and analysis platform
+- 📚 Preparing for **GATE CSE 2027**
+- 💻 Strengthening DSA, System Design, and Backend skills
+
+I love learning by building and experimenting with new technologies.  
+My goal is to create tools that are not just projects — but actually useful in the real world.
+
+---
+
+## ⚡ Quick Facts
+
+- 🔭 Currently working on: **Cybersecurity Projects**
+- 🌱 Learning: **Spring Boot, PostgreSQL, Docker**
+- 💡 Interested in: **AI Security & Threat Detection**
+- 🎯 Goal: **Become a top-tier Software Engineer**
+- ☕ Fuel: **Music + Late Night Coding**
+
+---
 
 ---
 
