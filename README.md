@@ -371,15 +371,7 @@ User types prompt in ChatGPT / Gemini / any AI tool
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hridyansh001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
+![Matrix Snake](https://github.com/hridyansh001/hridyansh001/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 💬 Dev Quote of the Day
 
