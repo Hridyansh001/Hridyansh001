@@ -54,10 +54,22 @@ Right now I'm deep into **Spring Boot**, **REST APIs**, **databases**, and **bro
 [![Type](https://img.shields.io/badge/Type-Browser%20Extension-7c3aed?style=for-the-badge&labelColor=1e1b4b&logo=googlechrome&logoColor=white)](https://github.com/hridyansh001/shadowguard)
 [![Backend](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=1e1b4b&logo=springboot&logoColor=white)](https://github.com/hridyansh001/shadowguard)
 [![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&labelColor=1e1b4b&logo=react&logoColor=white)](https://github.com/hridyansh001/shadowguard)
+[![Backend Deploy](https://img.shields.io/badge/Backend-Live%20on%20Render-46E3B7?style=for-the-badge&labelColor=1e1b4b&logo=render&logoColor=white)](https://render.com)
+[![Dashboard Deploy](https://img.shields.io/badge/Dashboard-Live%20on%20Vercel-000000?style=for-the-badge&labelColor=1e1b4b&logo=vercel&logoColor=white)](https://vercel.com)
 
 </div>
 
 > **ShadowGuard** is a real-time AI security platform delivered as a **browser extension** that prevents sensitive data leakage by scanning user prompts and uploaded documents before they are sent to AI services. It detects confidential information, masks sensitive content, logs security incidents, and provides an **admin dashboard** for real-time monitoring and analysis.
+
+<div align="center">
+
+| Layer | Technology | Deployment |
+|---|---|---|
+| 🧩 Browser Extension | JavaScript (Manifest V3) | Load unpacked in Chrome |
+| ⚙️ Backend API | Spring Boot (Java) | 🟢 Live on Render |
+| 📊 Admin Dashboard | React | 🟢 Live on Vercel |
+
+</div>
 
 ### 🔍 What it does
 
@@ -229,23 +241,50 @@ User types prompt in ChatGPT / Gemini / any AI tool
 
 ## 📊 GitHub Stats
 
+<!-- 
+  NOTE: If cards show broken images, it means the free stats services are temporarily down or rate-limited.
+  These are the most reliable alternatives — try them in order if one breaks.
+  Option A (below): github-readme-stats self-hosted via anuraghazra (most popular)
+  Option B: githubstats.me (alternative host)
+-->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<!-- Stats card — uses anuraghazra's service via vercel -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" />
+&nbsp;
+<!-- Top languages card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
 
 </div>
 
+<br/>
+
+<!-- Streak stats — git.io/streak-stats is the most stable host for this -->
 <div align="center">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=hridyansh001&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="70%" src="https://streak-stats.demolab.com?user=hridyansh001&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=8b8fa8&dates=8b8fa8&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117" />
 
 </div>
 
+<br/>
+
+<!-- Manual stat cards using shields.io — always reliable, hardcoded from your real stats -->
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyansh001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b" />
+![Contributions](https://img.shields.io/badge/Total%20Contributions-95-a78bfa?style=for-the-badge&labelColor=0d1117)
+![Since](https://img.shields.io/badge/Since-Apr%209%2C%202025-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-4%20days-f59e0b?style=for-the-badge&labelColor=0d1117&logo=fire&logoColor=f59e0b)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20day-22c55e?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<!-- Activity graph — using github-readme-activity-graph -->
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyansh001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed" />
 
 </div>
 
