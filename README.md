@@ -5,14 +5,14 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+real+things+while+learning+%F0%9F%92%AA;Backend+%7C+Frontend+%7C+Fullstack+Dev;Browser+Extension+Builder+%F0%9F%A7%A9;CS+Student+on+a+mission+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&width=650&lines=Building+real+things+while+learning+%F0%9F%92%AA;Backend+%7C+Frontend+%7C+Fullstack+Dev;Browser+Extension+Builder+%F0%9F%A7%A9;CS+Student+on+a+mission+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
-[![GitHub followers](https://img.shields.io/github/followers/hridyansh001?label=Follow&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&logo=github)](https://github.com/hridyansh001)
-[![Profile Views](https://komarev.com/ghpvc/?username=hridyansh001&style=for-the-badge&color=7c3aed&label=Profile+Views)](https://github.com/hridyansh001)
+[![GitHub followers](https://img.shields.io/github/followers/hridyansh001?label=Follow&style=for-the-badge&color=1f6feb&labelColor=0d1117&logo=github)](https://github.com/hridyansh001)
+[![Profile Views](https://komarev.com/ghpvc/?username=hridyansh001&style=for-the-badge&color=1f6feb&label=Profile+Views)](https://github.com/hridyansh001)
 
 </div>
 
@@ -50,12 +50,12 @@ Right now I'm deep into **Spring Boot**, **REST APIs**, **databases**, and **bro
  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
 ```
 
-[![Status](https://img.shields.io/badge/Status-Active%20Development-22c55e?style=for-the-badge&labelColor=1e1b4b)](https://github.com/hridyansh001/shadowguard)
-[![Type](https://img.shields.io/badge/Type-Browser%20Extension-7c3aed?style=for-the-badge&labelColor=1e1b4b&logo=googlechrome&logoColor=white)](https://github.com/hridyansh001/shadowguard)
-[![Backend](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=1e1b4b&logo=springboot&logoColor=white)](https://github.com/hridyansh001/shadowguard)
-[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&labelColor=1e1b4b&logo=react&logoColor=white)](https://github.com/hridyansh001/shadowguard)
-[![Backend Deploy](https://img.shields.io/badge/Backend-Live%20on%20Render-46E3B7?style=for-the-badge&labelColor=1e1b4b&logo=render&logoColor=white)](https://render.com)
-[![Dashboard Deploy](https://img.shields.io/badge/Dashboard-Live%20on%20Vercel-000000?style=for-the-badge&labelColor=1e1b4b&logo=vercel&logoColor=white)](https://vercel.com)
+[![Status](https://img.shields.io/badge/Status-Active%20Development-22c55e?style=for-the-badge&labelColor=0d1117)](https://github.com/hridyansh001/shadowguard)
+[![Type](https://img.shields.io/badge/Type-Browser%20Extension-1f6feb?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white)](https://github.com/hridyansh001/shadowguard)
+[![Backend](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=0d1117&logo=springboot&logoColor=white)](https://github.com/hridyansh001/shadowguard)
+[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=white)](https://github.com/hridyansh001/shadowguard)
+[![Backend Deploy](https://img.shields.io/badge/Backend-Live%20on%20Render-46E3B7?style=for-the-badge&labelColor=0d1117&logo=render&logoColor=white)](https://render.com)
+[![Dashboard Deploy](https://img.shields.io/badge/Dashboard-Live%20on%20Vercel-000000?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white)](https://vercel.com)
 
 </div>
 
@@ -250,9 +250,9 @@ User types prompt in ChatGPT / Gemini / any AI tool
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
@@ -261,7 +261,7 @@ User types prompt in ChatGPT / Gemini / any AI tool
 <!-- Streak stats — git.io/streak-stats is the most stable host for this -->
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=hridyansh001&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=8b8fa8&dates=8b8fa8&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117" />
+<img width="70%" src="https://streak-stats.demolab.com?user=hridyansh001&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=f59e0b&currStreakLabel=58a6ff&sideLabels=8b8fa8&dates=8b8fa8&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117" />
 
 </div>
 
@@ -270,8 +270,8 @@ User types prompt in ChatGPT / Gemini / any AI tool
 <!-- Manual stat cards using shields.io — always reliable, hardcoded from your real stats -->
 <div align="center">
 
-![Contributions](https://img.shields.io/badge/Total%20Contributions-95-a78bfa?style=for-the-badge&labelColor=0d1117)
-![Since](https://img.shields.io/badge/Since-Apr%209%2C%202025-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Contributions](https://img.shields.io/badge/Total%20Contributions-95-58a6ff?style=for-the-badge&labelColor=0d1117)
+![Since](https://img.shields.io/badge/Since-Apr%209%2C%202025-1f6feb?style=for-the-badge&labelColor=0d1117)
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-4%20days-f59e0b?style=for-the-badge&labelColor=0d1117&logo=fire&logoColor=f59e0b)
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20day-22c55e?style=for-the-badge&labelColor=0d1117)
 
@@ -282,7 +282,7 @@ User types prompt in ChatGPT / Gemini / any AI tool
 <!-- Activity graph — using github-readme-activity-graph -->
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyansh001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyansh001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f59e0b&area=true&area_color=1f6feb" />
 
 </div>
 
