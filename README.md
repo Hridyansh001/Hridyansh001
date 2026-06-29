@@ -250,11 +250,9 @@ User types prompt in ChatGPT / Gemini / any AI tool
 
 <div align="center">
 
-<!-- Stats card — uses anuraghazra's service via vercel -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
 &nbsp;
-<!-- Top languages card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" />
 
 </div>
 
