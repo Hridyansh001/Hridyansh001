@@ -1,999 +1,789 @@
+<!-- ========================================================= -->
+<!--                     HERO SECTION                          -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Hridyansh%20Thakran&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20Backend%20Developer&descAlignY=58"/>
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Hridyansh Thakran
 
-> **Computer Science Student • Full-Stack Developer • Cybersecurity Enthusiast • AI Explorer**
+### Computer Science Student • Backend Developer • Cybersecurity Enthusiast • AI Explorer
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Java+Developer;Spring+Boot+%7C+React;Cybersecurity+Enthusiast;Building+ShadowGuard"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+Secure+Applications;Spring+Boot+Developer;React+Frontend+Developer;Cybersecurity+Enthusiast;Always+Learning+Something+New"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Hridyansh001&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Hridyansh001?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/Hridyansh001?style=for-the-badge"/>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Hridyansh001-181717?style=for-the-badge&logo=github)](https://github.com/Hridyansh001)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hridyansh001&style=for-the-badge&color=0e75b6)
+
+![Followers](https://img.shields.io/github/followers/Hridyansh001?style=for-the-badge)
+
+</div>
+
+---
+
+# 💻 whoami
+
+```java
+public class Hridyansh {
+
+    String name = "Hridyansh Thakran";
+
+    String role = "Computer Science Student";
+
+    String location = "India";
+
+    String focus =
+        "Backend Development • Cybersecurity • AI";
+
+    String[] languages = {
+        "Java",
+        "C++",
+        "C",
+        "JavaScript",
+        "Python"
+    };
+
+    String[] currentlyLearning = {
+        "Spring Boot",
+        "React",
+        "Docker",
+        "AWS",
+        "System Design"
+    };
+
+    String currentProject = "ShadowGuard";
+
+    String motto =
+        "Build. Break. Learn. Repeat.";
+}
+```
 
 ---
 
 # 🚀 About Me
 
-```java
-public class Hridyansh {
-    String name = "Hridyansh Thakran";
-    String role = "Computer Science Student";
-    String focus = "Backend + Cybersecurity + AI";
-    String currentProject = "ShadowGuard";
-}
+<table>
+
+<tr>
+
+<td width="60%">
+
+### 👨‍💻 I enjoy building software that solves real-world problems.
+
+Currently I'm focusing on
+
+- 🛡️ Cybersecurity
+- ☁️ Cloud Computing
+- ⚙️ Backend Engineering
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Development
+
+I enjoy understanding **how systems work internally** instead of just using them.
+
+My goal is to become a Software Engineer who builds scalable and secure software.
+
+</td>
+
+<td width="40%">
+
+```text
+Status      : Coding
+
+Education   : B.Tech CSE
+
+Learning    : Spring Boot
+
+Building    : ShadowGuard
+
+Interest    : AI Security
+
+Coffee      : Required ☕
+
 ```
 
-- 🌱 Learning: Spring Boot, React, Docker, System Design
-- 🛡️ Building: ShadowGuard
-- 💻 Languages: Java, C++, C, JavaScript, Python
-- 🎯 Goal: Become a Software Engineer building secure systems.
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ Current Focus
+
+<table>
+
+<tr>
+
+<td>
+
+✅ Building ShadowGuard
+
+</td>
+
+<td>
+
+📚 Learning Spring Boot
+
+</td>
+
+<td>
+
+⚛️ React + Vite
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🛡️ Cybersecurity
+
+</td>
+
+<td>
+
+☁️ Cloud Computing
+
+</td>
+
+<td>
+
+💻 DSA Everyday
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,vite,nodejs,cpp,c,python,js,html,css,postgres,mysql,git,github,docker,linux,vscode,idea,postman"/>
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## Frameworks
 
-> Replace these if GitHub rate limits occur.
+<p>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hridyansh001&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridyansh001&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring"/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Hridyansh001&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
 </p>
 
 ---
 
-# 🛡️ Featured Project
+## Databases
 
-## ShadowGuard
+<p>
 
-A browser extension + Spring Boot backend + React dashboard that detects and masks sensitive information before it reaches AI models.
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
-### Features
-- API key detection
-- Credit card detection
-- PAN & Aadhaar detection
-- Email & phone detection
-- Shannon entropy analysis
-- Prompt masking
-- Risk scoring
-- Admin dashboard
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=idea"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ "I don't just write code.
+
+I build systems."
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🛡️ ShadowGuard
+
+### AI Prompt Sensitive Data Leakage Prevention System
+
+A browser extension + Spring Boot backend that detects and masks confidential information before it reaches AI models.
+
+**Highlights**
+
+- 🔐 Sensitive Data Detection
+- 🎭 Automatic Masking
+- 📊 Risk Analysis
+- 🌐 Browser Extension
+- ⚡ Spring Boot APIs
+- 🗄 PostgreSQL
+
+**Tech**
+
+`Java`
+`Spring Boot`
+`React`
+`PostgreSQL`
+`Chrome Extension`
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hridyansh001&repo=ShadowGuard&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🌱 Flora Care Manager
+
+Console based Plant Management System.
+
+### Learned
+
+✔ OOP
+
+✔ File Handling
+
+✔ Dynamic Memory
+
+✔ Classes
+
+✔ Inheritance
+
+</td>
+
+<td width="50%">
+
+## 📊 Carbon Footprint Analyzer
+
+Java application for estimating lifestyle carbon emissions.
+
+### Learned
+
+✔ User Input
+
+✔ OOP Design
+
+✔ Business Logic
+
+✔ Java Collections
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 Flight Delay Prediction
+
+Deep Learning project using aviation datasets.
+
+### Learned
+
+✔ Neural Networks
+
+✔ CNN
+
+✔ DNN
+
+✔ Data Processing
+
+</td>
+
+<td width="50%">
+
+## 🌐 Portfolio Website
+
+Responsive portfolio made using HTML CSS and JavaScript.
+
+### Learned
+
+✔ Responsive Design
+
+✔ CSS Grid
+
+✔ Flexbox
+
+✔ Animations
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 My Learning Journey
+
+```text
+2023
+│
+├── Started Programming
+│
+├── C Programming
+│
+└───────────────►
+
+2024
+│
+├── C++
+│
+├── Data Structures
+│
+├── OOP
+│
+└───────────────►
+
+2025
+│
+├── Java
+│
+├── SQL
+│
+├── Spring Boot
+│
+├── React
+│
+├── Full Stack
+│
+└───────────────►
+
+2026
+│
+├── Cloud Computing
+│
+├── Docker
+│
+├── Kubernetes
+│
+├── System Design
+│
+└── Open Source
+```
 
 ---
 
 # 🎯 2026 Roadmap
 
-- [x] Learn Java
-- [x] Build Spring Boot APIs
-- [x] Learn React
-- [x] Build ShadowGuard
-- [ ] Docker
-- [ ] Kubernetes
-- [ ] AWS
-- [ ] Open Source Contributions
-- [ ] Software Engineering Internship
+| Goal | Status |
+|-------|:------:|
+| Master Java | ✅ |
+| Spring Boot | ✅ |
+| React | ✅ |
+| Build ShadowGuard | ✅ |
+| Docker | 🟡 |
+| Kubernetes | ⏳ |
+| AWS | ⏳ |
+| Open Source Contributions | ⏳ |
+| Software Engineering Internship | 🎯 |
+| Crack GATE CSE | 🎯 |
 
 ---
 
-# 📚 Quote
+# 🧠 Areas I'm Exploring
 
-> "Build software that makes the internet safer."
+<table>
+
+<tr>
+
+<td>
+
+## 🛡 Cybersecurity
+
+Learning secure software engineering, authentication, encryption, browser security and AI safety.
+
+</td>
+
+<td>
+
+## 🤖 Artificial Intelligence
+
+Interested in Generative AI, Deep Learning and LLM Security.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## ☁ Cloud Computing
+
+Learning deployment, Docker, Kubernetes and scalable backend systems.
+
+</td>
+
+<td>
+
+## ⚙ Backend Development
+
+Spring Boot APIs
+
+REST
+
+Authentication
+
+Databases
+
+Architecture
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer"/>
-</p>
+# 🏆 Achievements
 
+🏅 Built a Full Stack Cybersecurity Project
+
+🏅 Learning Backend Development with Spring Boot
+
+🏅 Solving DSA regularly
+
+🏅 Exploring AI + Cybersecurity
+
+🏅 Building production-style projects
 
 ---
 
-## 📌 Development Log 1
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
+# 📚 Current Learning
 
 ```text
-Progress Block 1
-████████████████████████████████████████
+█████████████████████████░░░░░  Java
+
+██████████████████████░░░░░░░░  Spring Boot
+
+███████████████████░░░░░░░░░░░  React
+
+██████████████░░░░░░░░░░░░░░░░  Docker
+
+███████████░░░░░░░░░░░░░░░░░░░  Kubernetes
+
+█████████████████░░░░░░░░░░░░░  System Design
 ```
 
 ---
 
-## 📌 Development Log 2
+# 💡 Fun Facts
 
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
+💻 I enjoy building software from scratch.
+
+🧩 I love solving DSA problems.
+
+🛡 Security interests me more than hacking.
+
+☕ Coffee makes debugging easier.
+
+🚀 I believe projects teach more than tutorials.
+
+🌙 Most of my coding happens late at night.
+
+---
+
+<!-- ========================================================= -->
+<!--                    DEVELOPER DASHBOARD                    -->
+<!-- ========================================================= -->
+
+# 📊 Developer Dashboard
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=70&section=header&text=Developer%20Dashboard&fontColor=ffffff&fontSize=32"/>
+
+</div>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📈 GitHub Statistics
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hridyansh001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"/>
+
+</td>
+
+<td width="50%">
+
+### 🔥 Coding Streak
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Hridyansh001&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="45%">
+
+### 🌎 Languages
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridyansh001&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="55%">
+
+### ⚡ System Status
+
+```yaml
+Name        : Hridyansh Thakran
+
+Role        : Computer Science Student
+
+OS          : macOS
+
+Editor      : VS Code + IntelliJ
+
+Languages   : Java / C++ / JavaScript
+
+Backend     : Spring Boot
+
+Frontend    : React
+
+Database    : PostgreSQL
+
+Current     : ShadowGuard
+
+Status      : Learning Everyday 🚀
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hridyansh001&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📦 Featured Repository
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hridyansh001&repo=ShadowGuard&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Coding Philosophy
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+## 🛡 Security
+
+I enjoy designing software that protects users instead of simply reacting to attacks.
+
+</td>
+
+<td width="33%">
+
+## ⚙ Engineering
+
+I focus on writing maintainable, scalable, and efficient code.
+
+</td>
+
+<td width="33%">
+
+## 🚀 Growth
+
+Every project teaches something new. My goal is to keep building and improving.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎮 Coding Activity
 
 ```text
-Progress Block 2
-████████████████████████████████████████
+Backend Development      ██████████████████████ 90%
+
+Cybersecurity            ████████████████████   85%
+
+Data Structures          █████████████████      80%
+
+Frontend                 ██████████████         65%
+
+Cloud Computing          ███████                35%
+
+Machine Learning         █████                  25%
 ```
 
 ---
 
-## 📌 Development Log 3
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
+# 🗂 Current Workspace
 
 ```text
-Progress Block 3
-████████████████████████████████████████
+📁 Hridyansh/
+
+├── 📂 ShadowGuard
+│   ├── Spring Boot Backend
+│   ├── React Dashboard
+│   ├── Browser Extension
+│   └── PostgreSQL
+│
+├── 📂 Java
+│   ├── DSA
+│   ├── OOP
+│   └── Projects
+│
+├── 📂 React
+│
+├── 📂 Spring Boot
+│
+└── 📂 Learning
 ```
 
 ---
 
-## 📌 Development Log 4
+# 🌍 Connect With Me
 
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
+<div align="center">
 
-```text
-Progress Block 4
-████████████████████████████████████████
-```
+<a href="https://github.com/Hridyansh001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+<!-- Add LinkedIn later -->
+<!--
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+-->
 
-## 📌 Development Log 5
+<!-- Add Gmail later -->
+<!--
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+-->
 
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 5
-████████████████████████████████████████
-```
+</div>
 
 ---
 
-## 📌 Development Log 6
+<div align="center">
 
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
+## 💭 Favorite Quote
 
-```text
-Progress Block 6
-████████████████████████████████████████
-```
+> *"The best way to predict the future is to build it."*
 
----
+<br>
 
-## 📌 Development Log 7
+⭐ **Thanks for visiting my profile! If you like my work, consider following or starring my repositories.**
 
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
+<br>
 
-```text
-Progress Block 7
-████████████████████████████████████████
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=140&section=footer"/>
 
----
-
-## 📌 Development Log 8
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 8
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 9
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 9
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 10
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 10
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 11
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 11
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 12
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 12
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 13
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 13
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 14
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 14
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 15
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 15
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 16
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 16
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 17
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 17
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 18
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 18
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 19
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 19
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 20
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 20
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 21
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 21
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 22
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 22
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 23
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 23
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 24
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 24
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 25
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 25
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 26
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 26
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 27
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 27
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 28
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 28
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 29
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 29
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 30
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 30
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 31
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 31
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 32
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 32
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 33
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 33
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 34
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 34
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 35
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 35
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 36
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 36
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 37
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 37
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 38
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 38
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 39
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 39
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 40
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 40
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 41
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 41
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 42
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 42
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 43
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 43
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 44
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 44
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 45
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 45
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 46
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 46
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 47
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 47
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 48
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 48
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 49
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 49
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 50
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 50
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 51
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 51
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 52
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 52
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 53
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 53
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 54
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 54
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 55
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 55
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 56
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 56
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 57
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 57
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 58
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 58
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 59
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 59
-████████████████████████████████████████
-```
-
----
-
-## 📌 Development Log 60
-
-- Working on improving backend architecture.
-- Practicing data structures and algorithms.
-- Exploring cybersecurity concepts.
-- Learning scalable software engineering.
-- Building projects with Java and React.
-
-```text
-Progress Block 60
-████████████████████████████████████████
-```
+</div>
