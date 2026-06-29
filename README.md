@@ -1,58 +1,166 @@
 <div align="center">
 
-```
-██╗  ██╗██████╗ ██╗██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗ ██████╗  ██████╗  ██╗
-██║  ██║██╔══██╗██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██╔═══██╗██╔═══██╗███║
-███████║██████╔╝██║██║  ██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║██║   ██║╚██║
-██╔══██║██╔══██╗██║██║  ██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║██║   ██║ ██║
-██║  ██║██║  ██║██║██████╔╝   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝╚██████╔╝ ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Building+in+the+digital+matrix...;Code.+Debug.+Deploy.+Repeat.;Welcome+to+my+terminal+%3E_%" alt="Typing SVG" />
+<!-- Cyberpunk Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:00f0ff,100:ff00aa&height=200&section=header&text=HRIDYANSH001&fontSize=52&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Security%20Builder&descAlignY=60&descSize=14" />
 
 <br/>
 
-[![Visits](https://komarev.com/ghpvc/?username=hridyansh001&color=00ff41&style=flat-square&label=SYSTEM+ACCESS+COUNT)](https://github.com/hridyansh001)
-[![GitHub followers](https://img.shields.io/github/followers/hridyansh001?color=00ff41&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/hridyansh001)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=640&lines=Spring+Boot+Backend+Engineer+%5B+ONLINE+%5D;Building+secure%2C+scalable+systems+...;Full+Stack+%7C+Java+%7C+React+%7C+Security;always_shipping+%3D+true+%3B)](https://github.com/hridyansh001)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hridyansh001&color=00f0ff&style=flat-square&label=SYSTEM+ACCESS)
+[![GitHub followers](https://img.shields.io/github/followers/hridyansh001?color=ff00aa&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/hridyansh001)
+![Status](https://img.shields.io/badge/STATUS-ALWAYS__BUILDING-00f0ff?style=flat-square)
 
 </div>
 
 ---
 
-```bash
-$ whoami
-> hridyansh001
-
-$ cat /etc/profile
-> Full Stack Developer | Digital Architect | Code Alchemist
-> Location: /earth/asia/india
-> Status: always_building=true
-> Mission: ship_cool_things && break_things_responsibly
+```
+╔══════════════════════════════════════════════════════════╗
+║  $ whoami                                                ║
+║  > hridyansh001                                          ║
+║                                                          ║
+║  $ cat system.profile                                    ║
+║  > primary    : Backend Engineering (Spring Boot, Java)  ║
+║  > learning   : Frontend (React) + Advanced Backend      ║
+║  > location   : /earth/asia/india                        ║
+║  > mission    : Build secure systems that matter         ║
+║  > status     : ONLINE && always_shipping=true           ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `> SYSTEM OVERVIEW`
+## `⬡ PROJECTS.DEPLOYED`
 
-```python
-class Hridyansh:
-    def __init__(self):
-        self.username     = "hridyansh001"
-        self.role         = "Full Stack Developer"
-        self.languages    = ["JavaScript", "TypeScript", "Python", "C++"]
-        self.stack        = {
-            "frontend"  : ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
-            "backend"   : ["Node.js", "Express", "FastAPI", "REST APIs"],
-            "database"  : ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-            "devops"    : ["Docker", "GitHub Actions", "Vercel", "Linux"],
-        }
-        self.currently    = "Building something the world hasn't seen yet 👾"
-        self.fun_fact     = "I debug with console.log and I'm proud of it 🐛"
+<table>
+<tr>
+<td>
 
-    def hire_me(self):
-        return "Let's build the future, one commit at a time 🚀"
+### 🛡️ ShadowGuard
+**Real-time AI Security Platform**
+
+> Intercepts and sanitizes sensitive data *before* it reaches AI services. Scans prompts and uploaded documents on-the-fly, detects API keys, passwords, PII, and database credentials — then masks them, logs security incidents, and exposes a live admin dashboard for full threat visibility.
+
+**Core Capabilities:**
+- `◈` Real-time prompt scanning & interception
+- `◈` API key, password & credential detection  
+- `◈` Uploaded document analysis (pre-send)
+- `◈` Intelligent sensitive data masking
+- `◈` Security incident logging & audit trail
+- `◈` Live admin monitoring dashboard
+- `◈` Browser extension (vanilla JS)
+- `◈` PII & personal identifier detection
+
+**Stack:**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+[![View Code](https://img.shields.io/badge/%5B_GitHub_Repository_%5D-00f0ff?style=flat-square)](https://github.com/hridyansh001)
+[![Live Demo](https://img.shields.io/badge/%5B_Live_Demo_%5D-ff00aa?style=flat-square)](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `◈ TECH.STACK`
+
+<div align="center">
+
+**`[ BACKEND — PRIMARY DOMAIN ]`**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-00f0ff?style=for-the-badge&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**`[ FRONTEND — LEARNING & GROWING ]`**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**`[ TOOLS & INFRA ]`**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## `▣ SYSTEM.METRICS`
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&theme=chartreuse-dark&bg_color=050810&border_color=00f0ff44&title_color=00f0ff&icon_color=ff00aa&text_color=c9d1e0" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=compact&theme=chartreuse-dark&bg_color=050810&border_color=00f0ff44&title_color=00f0ff&text_color=c9d1e0" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hridyansh001&theme=dark&background=050810&border=00f0ff44&ring=00f0ff&fire=ff00aa&currStreakLabel=00f0ff&sideLabels=7b8fa8&dates=7b8fa8)](https://github.com/hridyansh001)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hridyansh001&theme=react-dark&bg_color=050810&color=00f0ff&line=ff00aa&point=ffffff&area=true&border_color=00f0ff44)](https://github.com/hridyansh001)
+
+</div>
+
+---
+
+## `◇ CURRENT.PROCESS`
+
 ```
+[ BACKEND MASTERY   ] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%  — going deeper every day
+[ FRONTEND (REACT)  ] ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ 52%  — actively learning
+[ SYSTEM DESIGN     ] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ 68%  — scaling knowledge
+[ SECURITY MINDSET  ] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%  — built ShadowGuard
+[ COFFEE INTAKE     ] ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100% — no further comments ☕
+```
+
+---
+
+## `◈ CONNECT.INIT`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridyansh001)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hridyansh001)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hridyansh001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hridyansh001)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   "Security is not a feature. It's a foundation."   ║
+║                                                      ║
+║              hridyansh001@github:~$ █                ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00aa,50:00f0ff,100:050810&height=100&section=footer" />
+
+</div>```
 
 ---
 
