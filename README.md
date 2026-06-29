@@ -1,114 +1,123 @@
 <div align="center">
 
-# ⚔️ Hridyansh Thakran ⚔️
+```
+╔══════════════════════════════════════════════════════════╗
+║          HRIDYANSH THAKRAN  //  SYSTEM ONLINE           ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-### Cybersecurity • Backend Development • GATE CSE • AI Security
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=680&lines=Backend+Engineer+%7C+Security+Researcher;Building+AI-Powered+Security+Tools;Spring+Boot+%7C+Java+%7C+PostgreSQL;GATE+CSE+2027+%E2%80%94+In+Progress;Code.+Break.+Secure.+Repeat." alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+Developer;Cybersecurity+Enthusiast;Building+ShadowGuard+%F0%9F%9B%A1%EF%B8%8F;GATE+CSE+2027+Aspirant;Always+Learning+Something+New" />
+<br/>
 
-</div>
-
----
-
-#  About Me
-
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-I’m **Hridyansh Thakran**, a B.Tech CSE student passionate about building impactful tech and exploring the world of cybersecurity.
-
-I enjoy creating projects that combine:
--  Security
--  Backend Development
--  AI-based Solutions
--  Real-world Problem Solving
-
-Currently, I’m focused on:
--  Building **ShadowGuard** — an AI-powered insider threat & data leak prevention system
--  Developing **PhishRadar** — a phishing detection and analysis platform
--  Preparing for **GATE CSE 2027**
--  Strengthening DSA, System Design, and Backend skills
-
-I love learning by building and experimenting with new technologies.  
-My goal is to create tools that are not just projects — but actually useful in the real world.
-
----
-
-##  Quick Facts
-
--  Currently working on: **Cybersecurity Projects**
--  Learning: **Spring Boot, PostgreSQL, Docker**
--  Interested in: **AI Security & Threat Detection**
--  Goal: **Become a top-tier Software Engineer**
--  Fuel: **Music + Late Night Coding**
-
----
-
----
-
-#  Current Projects
-
-##  ShadowGuard
-> AI-powered insider threat & sensitive data leak prevention system.
-
-### Features
-- Real-time monitoring
-- Sensitive data detection
-- Risk scoring
-- Insider threat analysis
-- Leak prevention engine
-
----
-
-##  PhishRadar
-> Smart phishing URL detection and analysis platform.
-
-### Features
-- URL scanning
-- Suspicious domain detection
-- Threat classification
-- API-based scanning
-- Future ML integration
-
----
-
-#  Tech Stack
-
-<div align="center">
-
-## Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
-
-## Backend & Database
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgresql" />
-
-## Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-
-## Currently Learning
-<img src="https://skillicons.dev/icons?i=docker,linux" />
+[![GitHub](https://img.shields.io/badge/GitHub-Hridyansh001-%2300D4FF?style=flat-square&logo=github&logoColor=white)](https://github.com/Hridyansh001)
+![Profile Views](https://komarev.com/ghpvc/?username=Hridyansh001&color=00D4FF&style=flat-square&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/Status-Building%20%26%20Breaking-00D4FF?style=flat-square)
 
 </div>
 
 ---
 
-#  GitHub Stats
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## `whoami`
+
+I'm **Hridyansh Thakran** — a B.Tech CSE student building at the intersection of **backend engineering** and **cybersecurity**.
+
+I don't just study security. I build tools that implement it.
+
+My work lives in three spaces:
+
+- **Threat Detection** — real-time monitoring, insider threat modeling, anomaly detection
+- **Backend Systems** — Java + Spring Boot APIs, PostgreSQL, scalable service design
+- **AI-Augmented Security** — using ML to make security tools smarter and proactive
+
+Currently heads-down on two projects that I genuinely believe could be production-grade tools — not just GitHub trophies.
+
+<br clear="right"/>
+
+---
+
+## `ls ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ ShadowGuard
+
+> AI-powered insider threat & sensitive data leak prevention system
+
+Built for enterprise environments where the biggest threat often comes from *within*.
+
+```
+Features
+├── Real-time activity monitoring
+├── Sensitive data pattern detection
+├── Risk scoring engine
+├── Insider threat behavioral analysis
+└── Automated leak prevention
+```
+
+![Status](https://img.shields.io/badge/Status-Active%20Dev-00D4FF?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Java%20%7C%20Spring%20Boot%20%7C%20PostgreSQL-0D1117?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 PhishRadar
+
+> Smart phishing URL detection and threat classification platform
+
+Because humans can't manually vet every suspicious link. Machines can.
+
+```
+Features
+├── URL scanning & analysis
+├── Suspicious domain fingerprinting
+├── Multi-class threat classification
+├── RESTful API interface
+└── ML integration (in progress)
+```
+
+![Status](https://img.shields.io/badge/Status-Active%20Dev-00D4FF?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Java%20%7C%20Spring-0D1117?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `cat tech_stack.json`
+
+```json
+{
+  "languages":    ["Java", "C++", "Python", "JavaScript"],
+  "backend":      ["Spring Boot", "REST APIs", "Microservices"],
+  "databases":    ["PostgreSQL", "MySQL"],
+  "tools":        ["Git", "GitHub", "Postman", "IntelliJ IDEA", "VS Code"],
+  "learning":     ["Docker", "Linux", "System Design"],
+  "focus_areas":  ["Cybersecurity", "AI Security", "Backend Engineering"]
+}
+```
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hridyansh001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridyansh001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Hridyansh001&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,spring,postgresql,mysql,git,github,postman,vscode,idea,docker,linux&perline=7" />
 
 </div>
 
 ---
 
-#  Contribution Graph
+## `git log --stat`
 
 <div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hridyansh001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=CDD9E5&ring_color=00D4FF" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridyansh001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=CDD9E5" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hridyansh001&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridyansh001&theme=tokyonight" />
 
@@ -116,50 +125,66 @@ My goal is to create tools that are not just projects — but actually useful in
 
 ---
 
-#  Snake Eating Contributions
+## `./roadmap --year 2026`
+
+```
+[ ] Master Spring Boot & microservices architecture
+[ ] Deploy with Docker + CI/CD pipelines
+[ ] Crack GATE CSE 2027
+[ ] Ship ShadowGuard to production
+[ ] Contribute meaningful PRs to open source security tools
+[ ] Build a public API used by real people
+```
+
+---
+
+## `tail -1 /etc/motto`
 
 <div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   "Those who cling to life die.                         │
+│    Those who cling to death live."                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `ping me`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40Hridyansh001-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/Hridyansh001)
+
+<br/>
+
+*Open to collaborations on cybersecurity tools, backend systems, and anything that solves a real problem.*
+
+<br/>
+
+```
+⣿⣿⣿⣿⣿⠋⠉⠁⠀⠀⠀⠀⠀⠀⣿⣿
+⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿   status: always building
+⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿   uptime: 24/7
+⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿   fuel: music + cold coffee
+⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿
+```
+
+**⚔️ Code. Break. Secure. Repeat. ⚔️**
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Snake eating my commits? Here it is:</sub>
 
 ![snake gif](https://github.com/Hridyansh001/Hridyansh001/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-#  Quote I Live By
-
-> “Those who cling to life die. Those who cling to death live.”
-
----
-
-#  2026 Goals
-
-- Master Spring Boot
-- Learn Docker & Deployment
-- Crack GATE CSE
-- Build production-level cybersecurity tools
-- Contribute to Open Source
-
----
-
-#  Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/hridyansh-t-279350398">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<!-- <a href="https://linkedin.com/in/Hridyansh Thakran">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a> -->
-
-</div>
-
----
-
-<div align="center">
-
-### ⚔️ “Code. Break. Secure. Repeat.” ⚔️
 
 </div>
