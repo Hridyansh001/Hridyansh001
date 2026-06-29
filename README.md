@@ -1,124 +1,174 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=HRIDYANSH001" alt="name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=800&color=FF00AA&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Full+Stack+Dev+%7C+Security+Builder;Spring+Boot+%C2%B7+React+%C2%B7+Java+%C2%B7+Always+Building" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Security+Researcher;Building+AI-Powered+Security+Tools;Spring+Boot+%7C+Java+%7C+PostgreSQL;GATE+CSE+2027+%E2%80%94+In+Progress;Code.+Break.+Secure.+Repeat." />
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=hridyansh001&color=00f0ff&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/hridyansh001?style=flat-square&color=ff00aa&label=FOLLOWERS&logo=github)](https://github.com/hridyansh001)
-&nbsp;
-![](https://img.shields.io/badge/STATUS-ALWAYS__BUILDING-00f0ff?style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Hridyansh001?style=flat-square&color=00D4FF&labelColor=0D1117&logo=github&label=Follow)](https://github.com/Hridyansh001)
+![Profile Views](https://komarev.com/ghpvc/?username=Hridyansh001&color=00D4FF&style=flat-square&label=Views)
+![Status](https://img.shields.io/badge/Status-Building%20%26%20Breaking-00D4FF?style=flat-square&labelColor=0D1117)
 
 </div>
 
 ---
 
+## `whoami`
+
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm **Hridyansh Thakran** — a B.Tech CSE student building at the intersection of backend engineering and cybersecurity.
+
+I don't just study security. I build tools that implement it.
+
+My work lives in three spaces:
+
+- **Threat Detection** — real-time monitoring, insider threat modeling, anomaly scoring
+- **Backend Systems** — Java + Spring Boot APIs, PostgreSQL, scalable service design  
+- **AI-Augmented Security** — using ML to make security tools smarter and proactive
+
+Currently heads-down on two projects that I genuinely believe could be production-grade tools — not just GitHub trophies.
+
+<br clear="right"/>
+
+---
+
+## `ls ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ ShadowGuard**
+
+> AI-powered insider threat & sensitive data leak prevention system
+
+Built for environments where the biggest risk often comes from *within*.
+
 ```
-$ whoami
-  hridyansh001 — Backend Engineer, learning Full Stack, building things that matter
-
-$ cat mission.txt
-  Build secure, scalable systems.
-  Primary  → Java · Spring Boot · REST APIs
-  Learning → React · Advanced Backend Patterns
-  Location → /earth/asia/india
-  Status   → always_shipping = true
+├── Real-time activity monitoring
+├── Sensitive data pattern detection
+├── Behavioral risk scoring engine
+├── Insider threat analysis
+└── Automated leak prevention
 ```
 
----
+![](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00D4FF)
+![](https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=00D4FF)
+![](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D4FF)
+![](https://img.shields.io/badge/Status-Active-00D4FF?style=flat-square&labelColor=0D1117)
 
-## 🛡️ Projects
+</td>
+<td width="50%" valign="top">
 
-### ShadowGuard — Real-time AI Security Platform
+**🎯 PhishRadar**
 
-> Intercepts sensitive data **before** it reaches AI services. Scans prompts and uploaded documents in real-time, detects API keys, passwords, PII and database credentials, masks threats, logs incidents, and surfaces everything in a live admin dashboard.
+> Smart phishing URL detection and threat classification platform
 
-| Layer | Tech |
-|---|---|
-| Backend | Java · Spring Boot · REST API |
-| Frontend | React |
-| Extension | Vanilla JavaScript |
-| Focus | AI Security · Data Masking · Threat Detection |
+Because humans can't manually vet every suspicious link. Machines can.
 
-**What it does:**
-- `▸` Real-time prompt scanning & interception
-- `▸` API key, password & credential detection
-- `▸` Uploaded document analysis before send
-- `▸` Intelligent sensitive data masking
-- `▸` Security incident logging & audit trail
-- `▸` Live admin monitoring dashboard
-- `▸` Browser extension (JS) for seamless integration
-- `▸` PII & personal identifier detection
+```
+├── URL scanning & analysis
+├── Suspicious domain fingerprinting
+├── Multi-class threat classification
+├── RESTful API interface
+└── ML integration (in progress)
+```
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-00f0ff?style=flat-square&logo=github)](https://github.com/hridyansh001)
-[![Demo](https://img.shields.io/badge/Demo-Live_Preview-ff00aa?style=flat-square)](https://github.com/hridyansh001)
+![](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=BC8CFF)
+![](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=BC8CFF)
+![](https://img.shields.io/badge/Spring-0D1117?style=flat-square&logo=spring&logoColor=BC8CFF)
+![](https://img.shields.io/badge/Status-Active-BC8CFF?style=flat-square&labelColor=0D1117)
 
----
-
-## ⚡ Tech Stack
-
-**Backend — Primary Domain**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-00f0ff?style=flat-square)
-
-**Frontend — Learning & Growing**
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Tools & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## `cat tech_stack.json`
+
+```json
+{
+  "languages":    ["Java", "C++", "Python", "JavaScript"],
+  "backend":      ["Spring Boot", "REST APIs", "Microservices"],
+  "databases":    ["PostgreSQL", "MySQL"],
+  "tools":        ["Git", "GitHub", "Postman", "IntelliJ IDEA", "VS Code"],
+  "learning":     ["Docker", "Linux", "System Design"],
+  "focus_areas":  ["Cybersecurity", "AI Security", "Backend Engineering"]
+}
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,spring,postgresql,mysql,git,github,postman,vscode,idea,docker,linux&perline=7&theme=dark" />
+</div>
+
+---
+
+## `git log --stat`
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff00aa&text_color=8baab8&ring_color=00f0ff)](https://github.com/hridyansh001)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hridyansh001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&ring_color=00D4FF" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hridyansh001&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=8B949E" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=8baab8)](https://github.com/hridyansh001)
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Hridyansh001&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hridyansh001&hide_border=true&background=0d1117&ring=00f0ff&fire=ff00aa&currStreakLabel=00f0ff&sideLabels=8baab8&dates=8baab8&currStreakNum=a8ff78&sideNums=8baab8)](https://github.com/hridyansh001)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hridyansh001&theme=github_dark" />
 
 </div>
 
 ---
 
-## 🌐 Connect
+## `./roadmap --year 2026`
+
+```
+[ ]  Master Spring Boot & microservices architecture
+[ ]  Deploy with Docker + CI/CD pipelines
+[ ]  Crack GATE CSE 2027
+[ ]  Ship ShadowGuard to production
+[ ]  Contribute meaningful PRs to open source security tools
+[ ]  Build a public API used by real people
+```
+
+---
+
+## `tail -1 /etc/motto`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridyansh001)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/hridyansh001)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hridyansh001@gmail.com)
+```
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   "Those who cling to life die.                      │
+│    Those who cling to death live."                   │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
+## `ping me`
+
 <div align="center">
 
-```
-"Security is not a feature. It's a foundation."
+[![GitHub](https://img.shields.io/badge/github-%40Hridyansh001-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF&color=0D1117)](https://github.com/Hridyansh001)
 
-hridyansh001@github:~$ █
+*Open to collaborations on cybersecurity tools, backend systems, and anything that solves a real problem.*
+
+<br/>
+
+![snake gif](https://github.com/Hridyansh001/Hridyansh001/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
 ```
+  status  →  always building
+  uptime  →  24 / 7
+  fuel    →  music + cold coffee
+```
+
+**`⚔ Code. Break. Secure. Repeat. ⚔`**
 
 </div>
