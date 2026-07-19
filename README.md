@@ -371,11 +371,11 @@ User types prompt in ChatGPT / Gemini / any AI tool
 
 ![Matrix Snake](https://github.com/hridyansh001/hridyansh001/blob/output/github-contribution-grid-snake-dark.svg)
 
-## 💬 Dev Quote of the Day
+## 💬 Quote I live by
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+"Those who cling to death live. Those who cling to life die"
 
 </div>
 
