@@ -1,404 +1,116 @@
 <div align="center">
 
-<!-- Animated banner with wave effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Hridyansh%20Thakran%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer%20%7C%20Backend%20%7C%20Frontend%20%7C%20Fullstack&descAlignY=58&descSize=18&animation=fadeIn" />
+# Hridyansh Thakran
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&width=650&lines=Building+real+things+while+learning+%F0%9F%92%AA;Backend+%7C+Frontend+%7C+Fullstack+Dev;Browser+Extension+Builder+%F0%9F%A7%A9;CS+Student+on+a+mission+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
-</a>
+**Computer Science Undergrad · Amity University, Noida**
+📍 India
 
-<br/>
+I build things to understand how they work — not to add lines to a CV.
+Exploring ML, Web, Systems and Cybersecurity — one layer at a time.
 
-<!-- Social badges -->
-[![GitHub followers](https://img.shields.io/github/followers/hridyansh001?label=Follow&style=for-the-badge&color=1f6feb&labelColor=0d1117&logo=github)](https://github.com/hridyansh001)
-[![Profile Views](https://komarev.com/ghpvc/?username=hridyansh001&style=for-the-badge&color=1f6feb&label=Profile+Views)](https://github.com/hridyansh001)
+[![Email](https://img.shields.io/badge/Email-tusharmishra0710@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hridyanshthakran@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Mishra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridyansh-t-279350398)
+[![GitHub](https://img.shields.io/badge/GitHub-tusharr--mishra-181717?style=flat&logo=github&logoColor=white)]([https://github.com/tusharr-mishra](https://github.com/Hridyansh001))
 
 </div>
 
 ---
 
-## 🧠 About Me
+## What I'm Currently Working On
 
-```yaml
-name: "Hridyansh Thakran"
-github: "hridyansh001"
-role: "Student Developer"
-focus: ["Backend Development", "Frontend", "Fullstack Engineering", "Browser Extensions"]
-currently_learning: ["Spring Boot", "React", "REST APIs", "Databases", "JavaScript Extensions"]
-building: "ShadowGuard — Real-time AI Security Browser Extension"
-open_to: ["Collaborations", "Open Source", "Internships", "Learning"]
-fun_fact: "I debug with console.log and I'm not sorry about it 😂"
-```
-
-I'm a passionate student developer learning the ropes of **backend**, **frontend**, and **fullstack** development — one project at a time. I love building things that actually solve real problems, and I'm not afraid to get my hands dirty exploring new tech stacks.
-
-Right now I'm deep into **Spring Boot**, **REST APIs**, **databases**, and **browser extension development**. My biggest project so far is **ShadowGuard**, an AI-powered security browser extension I built to solve a real and growing problem in the age of AI tools.
+- Building modern frontend applications and responsive dashboard systems
+- Learning full-stack web development — HTML, CSS, JavaScript, backend fundamentals, and deployment workflows
+- Exploring cloud technologies, scalable system architecture, and production-grade application design
+- Strengthening Core CS fundamentals and problem-solving skills
+- Developing aviation-focused technology projects involving analytics, AI-driven interfaces, and operational intelligence systems
+- Understanding how real-world software products are engineered, optimized, and deployed
 
 ---
 
-## 🛡️ Featured Project — ShadowGuard
+## Areas I'm Exploring
 
-<div align="center">
+### 🔐 Cybersecurity & Ethical Hacking
+Exploring cybersecurity concepts including phishing detection, sensitive data protection, threat analysis, and secure application development. Building security-focused projects like **PhishRadar** and **ShadowGuard**, focusing on real-world cyber threats and prevention techniques.
 
-```
- ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗
- ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔══██╗
- ███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║██║  ███╗██║   ██║███████║██████╔╝██║  ██║
- ╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║██║   ██║██║   ██║██╔══██║██╔══██╗██║  ██║
- ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝
- ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
-```
+### 🌐 Web Development
+Building modern web applications while progressing toward full-stack development using **Java, Spring Boot, JavaScript, and the MERN stack**. Interested in REST APIs, database integration, authentication systems, and scalable backend architectures.
 
-[![Status](https://img.shields.io/badge/Status-Active%20Development-22c55e?style=for-the-badge&labelColor=0d1117)](https://github.com/hridyansh001/shadowguard)
-[![Type](https://img.shields.io/badge/Type-Browser%20Extension-1f6feb?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=white)](https://github.com/hridyansh001/shadowguard)
-[![Backend](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=0d1117&logo=springboot&logoColor=white)](https://github.com/hridyansh001/shadowguard)
-[![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=white)](https://github.com/hridyansh001/shadowguard)
-[![Backend Deploy](https://img.shields.io/badge/Backend-Live%20on%20Render-46E3B7?style=for-the-badge&labelColor=0d1117&logo=render&logoColor=white)](https://render.com)
-[![Dashboard Deploy](https://img.shields.io/badge/Dashboard-Live%20on%20Vercel-000000?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white)](https://vercel.com)
+### 💻 Data Structures & Algorithms
+Strengthening problem-solving skills through **C++ and Java**, focusing on data structures, algorithms, time complexity, and optimized solutions. Regularly practicing DSA problems to develop strong programming fundamentals.
 
-</div>
+### 📊 Database Systems & Software Engineering
+Working with **MySQL, PostgreSQL, and relational database design**, including ER modeling, SQL queries, and data management. Developing practical software systems with an emphasis on clean architecture, backend development, and real-world applications.
 
-> **ShadowGuard** is a real-time AI security platform delivered as a **browser extension** that prevents sensitive data leakage by scanning user prompts and uploaded documents before they are sent to AI services. It detects confidential information, masks sensitive content, logs security incidents, and provides an **admin dashboard** for real-time monitoring and analysis.
+---
 
-<div align="center">
-
-| Layer | Technology | Deployment |
-|---|---|---|
-| 🧩 Browser Extension | JavaScript (Manifest V3) | Load unpacked in Chrome |
-| ⚙️ Backend API | Spring Boot (Java) | 🟢 Live on Render |
-| 📊 Admin Dashboard | React | 🟢 Live on Vercel |
-
-</div>
-
-### 🔍 What it does
-
-| Feature | Description |
-|---|---|
-| 🔑 **API Key Detection** | Scans and flags exposed API keys and tokens in real-time |
-| 🔒 **Password Scanner** | Detects hardcoded passwords and credentials before they reach AI |
-| 🪪 **PII Detection** | Identifies personal identifiers — names, emails, phone numbers, SSNs |
-| 🗄️ **Database Credential Guard** | Catches connection strings and DB credentials |
-| 🎭 **Content Masking** | Masks sensitive content before it's sent to AI services |
-| 📋 **Incident Logging** | Logs every security event with timestamps and severity |
-| 📊 **Admin Dashboard** | React-powered real-time monitoring and analysis panel |
-| 📄 **Document Scanner** | Scans uploaded documents (PDF, DOCX, TXT) for sensitive data |
-| 🧩 **Browser Extension** | Works natively in your browser — no extra software needed |
-
-### 🏗️ Architecture
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                          ShadowGuard Platform                               │
-│                                                                             │
-│  ┌───────────────────────────┐        ┌──────────────────────────────────┐  │
-│  │   Browser Extension (JS)  │        │     Admin Dashboard (React)      │  │
-│  │                           │        │                                  │  │
-│  │  ┌─────────────────────┐  │        │  ┌──────────┐  ┌─────────────┐  │  │
-│  │  │  Content Scripts    │  │        │  │  Charts  │  │  Incident   │  │  │
-│  │  │  - Prompt intercept │  │        │  │  & Stats │  │   Logs      │  │  │
-│  │  │  - DOM scanner      │  │        │  └──────────┘  └─────────────┘  │  │
-│  │  │  - File detector    │  │        │  ┌──────────┐  ┌─────────────┐  │  │
-│  │  └──────────┬──────────┘  │        │  │  Users   │  │  Real-time  │  │  │
-│  │             │             │        │  │ Manager  │  │  Alerts     │  │  │
-│  │  ┌──────────▼──────────┐  │        │  └──────────┘  └─────────────┘  │  │
-│  │  │  Popup UI           │  │        └──────────────────┬───────────────┘  │
-│  │  │  - Scan results     │  │                           │                  │
-│  │  │  - Settings toggle  │  │                           │ REST API calls   │
-│  │  └──────────┬──────────┘  │                           │                  │
-│  └─────────────┼─────────────┘        ┌──────────────────▼───────────────┐  │
-│                │                      │       Spring Boot Backend        │  │
-│                │   REST API calls      │                                  │  │
-│                └──────────────────────►  ┌──────────────────────────┐    │  │
-│                                       │  │    Scanning Engine       │    │  │
-│                                       │  │  - Regex pattern match   │    │  │
-│                                       │  │  - PII detection         │    │  │
-│                                       │  │  - Credential scanner    │    │  │
-│                                       │  └────────────┬─────────────┘    │  │
-│                                       │               │                  │  │
-│                                       │  ┌────────────▼─────────────┐    │  │
-│                                       │  │   Services Layer         │    │  │
-│                                       │  │  - Masker Service        │    │  │
-│                                       │  │  - Incident Logger       │    │  │
-│                                       │  │  - Auth & JWT            │    │  │
-│                                       │  └────────────┬─────────────┘    │  │
-│                                       └───────────────┼──────────────────┘  │
-│                                                       │                     │
-│                                       ┌───────────────▼──────────────────┐  │
-│                                       │          Database (MySQL/Mongo)  │  │
-│                                       │   incidents │ users │ scan_logs  │  │
-│                                       └──────────────────────────────────┘  │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-### 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-### 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/hridyansh001/shadowguard.git
-cd shadowguard
-```
-
-**Backend (Spring Boot)**
-```bash
-cd backend
-# Configure your DB credentials in src/main/resources/application.properties
-./mvnw spring-boot:run
-# Server starts at http://localhost:8080
-```
-
-**Admin Dashboard (React)**
-```bash
-cd admin-dashboard
-npm install
-npm run dev
-# Dashboard runs at http://localhost:5173
-```
-
-**Browser Extension**
-```bash
-# 1. Open Chrome → chrome://extensions
-# 2. Enable "Developer mode" (top right toggle)
-# 3. Click "Load unpacked"
-# 4. Select the /extension folder from the repo
-# Extension is now active in your browser ✅
-```
-
-### 📁 Project Structure
-
-```
-shadowguard/
-├── 📂 backend/                         # Spring Boot backend
-│   └── 📂 src/main/java/
-│       └── 📂 com/shadowguard/
-│           ├── 📂 controller/          # REST API controllers
-│           ├── 📂 service/
-│           │   ├── ScannerService.java # Core scanning engine
-│           │   ├── MaskerService.java  # Content masking logic
-│           │   └── IncidentService.java# Incident logging
-│           ├── 📂 model/               # JPA entities
-│           ├── 📂 repository/          # Database repositories
-│           ├── 📂 security/            # JWT auth & Spring Security
-│           └── 📂 config/              # App configuration
-│
-├── 📂 admin-dashboard/                 # React admin panel
-│   └── 📂 src/
-│       ├── 📂 components/              # Reusable UI components
-│       ├── 📂 pages/                   # Dashboard, Incidents, Users
-│       └── 📂 hooks/                   # Custom React hooks
-│
-├── 📂 extension/                       # Browser Extension (JS)
-│   ├── manifest.json                   # Extension manifest v3
-│   ├── background.js                   # Service worker
-│   ├── content.js                      # Page content scanner
-│   ├── popup.html                      # Extension popup UI
-│   └── popup.js                        # Popup logic
-│
-└── 📄 README.md
-```
-
-### 🔐 How the Scanning Works
-
-```
-User types prompt in ChatGPT / Gemini / any AI tool
-          │
-          ▼
-  [Extension Content Script]
-  Intercepts input before submission
-          │
-          ▼
-  [Spring Boot Scanning Engine]
-  Checks against patterns:
-  ├── API Keys    → /[a-zA-Z0-9]{32,}/
-  ├── Passwords   → /password\s*[:=]\s*\S+/i
-  ├── Emails/PII  → /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/i
-  └── DB Creds    → /jdbc:|mongodb\+srv:|mysql:\/\//
-          │
-     ┌────┴────┐
-     │         │
-  SAFE      SENSITIVE
-     │         │
-     ▼         ▼
- Pass to AI   Mask → Log Incident → Alert Admin
-```
-
----
-
-## 📊 GitHub Stats
-
-<!-- 
-  NOTE: If cards show broken images, it means the free stats services are temporarily down or rate-limited.
-  These are the most reliable alternatives — try them in order if one breaks.
-  Option A (below): github-readme-stats self-hosted via anuraghazra (most popular)
-  Option B: githubstats.me (alternative host)
--->
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<br/>
-
-<!-- Streak stats — git.io/streak-stats is the most stable host for this -->
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=hridyansh001&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=f59e0b&currStreakLabel=58a6ff&sideLabels=8b8fa8&dates=8b8fa8&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117" />
-
-</div>
-
-<br/>
-
-<!-- Manual stat cards using shields.io — always reliable, hardcoded from your real stats -->
-<div align="center">
-
-![Contributions](https://img.shields.io/badge/Total%20Contributions-95-58a6ff?style=for-the-badge&labelColor=0d1117)
-![Since](https://img.shields.io/badge/Since-Apr%209%2C%202025-1f6feb?style=for-the-badge&labelColor=0d1117)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-4%20days-f59e0b?style=for-the-badge&labelColor=0d1117&logo=fire&logoColor=f59e0b)
-![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20day-22c55e?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
-<br/>
-
-<!-- Activity graph — using github-readme-activity-graph -->
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridyansh001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f59e0b&area=true&area_color=1f6feb" />
-
-</div>
-
----
-
-## 🧰 Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Frontend & Extensions
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 My Projects
+## Projects
+| Project | Description | What I Learned | Tech | Link |
+|---|---|---|---|---|
+| **ShadowGuard — Sensitive Data Leakage Prevention System** | Security-focused platform that detects sensitive information in prompts before submission to third-party LLM platforms. Features real-time data detection, sensitive information masking, risk classification, browser extension protection, and an administrative dashboard for monitoring security alerts. | Strengthened understanding of cybersecurity, sensitive data detection, regex-based pattern matching, entropy-based secret detection, text masking, REST API development, JWT authentication, database integration, browser extension development, and secure backend architecture. | Java, Spring Boot, PostgreSQL, React, JavaScript, JWT, Manifest V3 | https://github.com/Hridyansh001/ShadowGuard-Compiled |
+| **Criminal Record Management System (CRMS)** | Full-stack criminal record management platform designed to manage FIR records, user accounts, criminal information, and related law enforcement data. Includes user registration, login authentication, database-backed record management, and a structured backend for handling criminal records. | Strengthened understanding of relational database design, ER modeling, SQL queries and joins, entity relationships, Spring Boot architecture, REST APIs, authentication, backend validation, and CRUD operations. | Java, Spring Boot, MySQL, HTML, CSS, JavaScript, Maven | https://github.com/Hridyansh001/crimemanagementsystem-compiled / |
+| **PhishRadar — Phishing URL Detection System** | Cybersecurity project focused on identifying potentially malicious and phishing URLs through pattern-based detection and URL analysis. Uses URL characteristics and suspicious domain patterns to flag potentially harmful links. | Strengthened understanding of phishing attack techniques, URL parsing, regex-based detection, suspicious domain identification, false-positive handling, input validation, and security-focused application development. | Java, Spring Boot, JavaScript, HTML, CSS, Regex | https://github.com/Hridyansh001/PhishRadar |
+| **Plant Generalization** | Plant-focused project exploring the generalization of plant-related characteristics across different samples and conditions, with an emphasis on organizing data and developing a structured approach to analysis. | Developed skills in problem decomposition, data organization, analytical thinking, technical documentation, and translating a project concept into an implementable solution. | [Add your actual technologies] |https://github.com/Hridyansh001/c-project-on-plant-generalization |
+---
+
+## GitHub Stats
 
 <div align="center">
-
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| 🛡️ **[ShadowGuard](https://github.com/hridyansh001/shadowguard)** | Real-time AI security browser extension — prevents sensitive data leakage before it reaches AI services | Spring Boot, React, JS Extension | 🟢 Active |
-| 🔗 **[Your Next Project](https://github.com/hridyansh001)** | Add your project here! | Your stack | 🔄 Building |
-| 📦 **[Your Next Project](https://github.com/hridyansh001)** | Add your project here! | Your stack | 🔄 Building |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=hridyansh001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridyansh001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridyansh001&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ---
 
-## 🎯 What I'm Currently Learning
-
-```
-📌 Backend Development
-   ├── ✅ Spring Boot (REST APIs, Spring Security, JWT)
-   ├── ✅ Java (OOP, Collections, Exception Handling)
-   ├── ✅ MySQL + JPA/Hibernate
-   ├── 🔄 Microservices with Spring Cloud
-   └── 📌 Docker + CI/CD (coming next)
-
-📌 Frontend & Browser Extensions
-   ├── ✅ HTML, CSS, JavaScript
-   ├── ✅ React.js
-   ├── ✅ Chrome Extension APIs (Manifest V3)
-   ├── 🔄 TypeScript
-   └── 🔄 Next.js
-
-📌 System Design & Security
-   ├── ✅ JWT Authentication
-   ├── ✅ Input scanning & pattern matching (Regex)
-   ├── ✅ Admin dashboard architecture
-   └── 📌 Rate limiting, caching (Redis) — coming next
-```
-
----
-
-![Matrix Snake](https://github.com/hridyansh001/hridyansh001/blob/output/github-contribution-grid-snake-dark.svg)
-
-## 💬 Quote I live by
+## Activity-Contribution Graph
 
 <div align="center">
-
-"Those who cling to death live. Those who cling to life die"
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hridyansh001&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
+
+<p align="center">
+  <em>"Trying to do better each day"</em>
+</p>
 
 ---
-
-## 📬 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-hridyansh001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hridyansh001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hridyansh%20Thakran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridyansh-thakran)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-**Thanks for stopping by!** If ShadowGuard or any of my projects helped you, a ⭐ means the world to a student still on the journey. 🚀
-
-*"The best way to learn is to build things that actually matter."*
-
-</div>
