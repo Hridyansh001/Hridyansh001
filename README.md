@@ -102,7 +102,7 @@ Working with **MySQL, PostgreSQL, and relational database design**, including ER
 </div>
 
 ---
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/hridyansh001/hridyansh001/output/github-contribution-grid-snake-dark.svg)
 ## Activity-Contribution Graph
 
 <div align="center">
