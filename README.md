@@ -11,7 +11,7 @@ Exploring ML, Web, Systems and Cybersecurity — one layer at a time.
 [![Email](https://img.shields.io/badge/Email-hridyanshthakran%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hridyanshthakran@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hridyansh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridyansh-t-279350398)
 [![GitHub](https://img.shields.io/badge/GitHub-Hridyansh001-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hridyansh001)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Hridyansh-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/DeathByMaths/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Hridyansh-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/HridyanshThakran/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Reaper_Soul)
 </div>
 
