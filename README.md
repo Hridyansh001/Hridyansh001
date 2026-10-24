@@ -33,14 +33,13 @@ Exploring ML, Web, Systems and Cybersecurity — one layer at a time.
 ### 🔐 Cybersecurity & Ethical Hacking
 Exploring cybersecurity concepts including phishing detection, sensitive data protection, threat analysis, and secure application development. Building security-focused projects like **PhishRadar** and **ShadowGuard**, focusing on real-world cyber threats and prevention techniques.
 
-### 🌐 Web Development
+### 🌐 Full Stack Development
 Building modern web applications while progressing toward full-stack development using **Java, Spring Boot, JavaScript, and the MERN stack**. Interested in REST APIs, database integration, authentication systems, and scalable backend architectures.
+Working with **MySQL, PostgreSQL, and relational database design**, including ER modeling, SQL queries, and data management. Developing practical software systems with an emphasis on clean architecture, backend development, and real-world applications.
 
 ### 💻 Data Structures & Algorithms
 Strengthening problem-solving skills through **C++ and Java**, focusing on data structures, algorithms, time complexity, and optimized solutions. Regularly practicing DSA problems to develop strong programming fundamentals.
 
-### 📊 Database Systems & Software Engineering
-Working with **MySQL, PostgreSQL, and relational database design**, including ER modeling, SQL queries, and data management. Developing practical software systems with an emphasis on clean architecture, backend development, and real-world applications.
 
 ---
 
